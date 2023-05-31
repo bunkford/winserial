@@ -8,4 +8,4 @@ srcDir        = "src"
 
 # Dependencies
 
-requires: "nim >= 0.20.0", "winim >= 3.2.4"
+requires "nim >= 0.20.0", "winim >= 3.2.4"
